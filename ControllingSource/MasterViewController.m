@@ -20,6 +20,7 @@
 
 - (void)awakeFromNib
 {
+    // people hello!!! putin huilo!!!!
     // well dene!
     [super awakeFromNib];
 }
